@@ -38,11 +38,7 @@ body {
     display: flex;
     align-items: start;
     flex-direction: column;
-<<<<<<< HEAD
     margin: 18rem auto 2rem auto; 
-=======
-    margin: 0 auto;
->>>>>>> dfbd31b5677802338c972938f8c661595e039921
     max-width: 100%;
     width: 30%;
     border-radius: 20px; 
@@ -86,11 +82,7 @@ h3 {
 
 .faq-item img {
     max-width: 100%;
-<<<<<<< HEAD
     width: 85%
-=======
-    width: 70%
->>>>>>> dfbd31b5677802338c972938f8c661595e039921
 }
 
 button {
@@ -113,7 +105,6 @@ button {
   display: flex; 
 }
 
-<<<<<<< HEAD
 h3:hover {
     color: hsl(281, 83%, 54%);
 }
@@ -226,8 +217,4 @@ h3:hover {
     padding: 25px 0px 0px 0px;
     line-height: 30px;
   }
-=======
-h3:active {
-    color: hsl(281, 83%, 54%);
->>>>>>> dfbd31b5677802338c972938f8c661595e039921
 }
