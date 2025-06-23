@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-faq-accordian-hWnDLakGKh
+- Live Site URL: https://vcalvo25.github.io/faq-accordian/
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+In this project, I learned how to change a button's image through the use of JavaScript. Additionally, I learned how to better understand the use of loops to iterate through each element in my faqItems class to toggle the visibility of the corresponding answer.
 
 ## Author
 
