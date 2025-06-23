@@ -23,7 +23,7 @@ body {
     display: flex;
     align-items: start;
     flex-direction: column;
-    margin: auto;
+    margin: 0 auto;
     max-width: 100%;
     width: 30%;
     border-radius: 20px; 
@@ -40,7 +40,7 @@ body {
 .card-header {
     display: flex;
     flex-direction: row;
-    padding: 0px 0px 20px 0px;
+    padding: 0px 0px 10px 0px;
 }
 
 h1 {
@@ -66,10 +66,15 @@ h3 {
 }
 
 .faq-item {
-    padding: 15px auto;
+    margin: 20px auto;
     max-width: 100%;
     width: 100%;
     justify-content: space-between;
+}
+
+.faq-item img {
+    max-width: 100%;
+    width: 70%
 }
 
 button {
@@ -90,4 +95,8 @@ button {
 
 .faq-answer.visible {
   display: flex; 
+}
+
+h3:active {
+    color: hsl(281, 83%, 54%);
 }
